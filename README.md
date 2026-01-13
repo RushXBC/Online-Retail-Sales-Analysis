@@ -1,20 +1,31 @@
-Online-Retail-Sales-Analysis
+📊 Online-Retail-Sales-Analysis
 
-Analyze online retail sales and customer behavior with clean, ready-to-use datasets. This project summarizes monthly product sales, tracks trends, identifies top and bottom performers, and flags customers at risk of churning within 180 days.
+Clean, structured analysis of online retail data. Track product trends, monitor monthly sales, and identify customers at risk of churning.
 
-Highlights
+🚀 Highlights
 
-Monthly sales aggregation with running totals
-Product trend analysis and top/bottom performance
-180-day customer churn classification
-Clean, analysis-ready datasets for reporting or dashboards
+Monthly Sales & Running Totals
 
-Structure
+Top & Bottom Products
 
-dataset/: Raw and processed data
-queries/: SQL scripts for aggregation, trends, and churn
+180-Day Customer Churn Classification
 
-LICENSE: MIT License
+Analysis-Ready Datasets
 
-Contributing
-Suggestions, issues, and pull requests are welcome to enhance queries or expand analysis metrics.
+📂 Structure
+
+dataset/ – Raw & processed data
+
+queries/ – SQL scripts for aggregation, trends, and churn
+
+LICENSE – MIT
+
+🛠️ Tools
+
+SQL (SSMS) for all data transformations
+
+CSV/Excel for raw inputs and references
+
+🤝 Contributing
+
+Open issues or pull requests to improve scripts or expand analysis.
