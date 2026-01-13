@@ -4,27 +4,22 @@ Clean, structured analysis of online retail data. Track product trends, monitor 
 
 🚀 Highlights
 
-Monthly Sales & Running Totals
-
-Top & Bottom Products
-
-180-Day Customer Churn Classification
-
-Analysis-Ready Datasets
+* Monthly Sales & Running Totals
+* Top & Bottom Products
+* 180-Day Customer Churn Classification
+* Analysis-Ready Datasets
 
 📂 Structure
 
-dataset/ – Raw & processed data
-
-queries/ – SQL scripts for aggregation, trends, and churn
+* dataset/ – Raw & processed data
+* queries/ – SQL scripts for aggregation, trends, and churn
 
 LICENSE – MIT
 
 🛠️ Tools
 
-SQL (SSMS) for all data transformations
-
-CSV/Excel for raw inputs and references
+* SQL (SSMS) for all data transformations
+* CSV/Excel for raw inputs and references
 
 🤝 Contributing
 
